@@ -17,7 +17,7 @@
 ---
 tomcat:
   version: 7.0.+
-  repository_root: "https://drive.google.com/folderview?id=0B81zI-0Z807MMVd5UFYwWkN0dlk&usp=sharing"
+  repository_root: "https://dl.dropboxusercontent.com/u/47723428/solr"
 lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
