@@ -39,6 +39,7 @@ module JavaBuildpack
         .chomp('/')
 
         cache.get("#{canonical repository_root}#{INDEX_PATH}") do |file|
+          puts file
           @index = YAML.load_file(file)
           @logger.debug { @index }
         end
