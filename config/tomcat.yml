@@ -17,7 +17,7 @@
 ---
 tomcat:
   version: 7.0.+
-  repository_root: "{default.repository.root}/tomcat"
+  repository_root: "https://www.dropbox.com/l/hLxirq3WX2CQ9tebWyew9o"
 lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
